@@ -29,7 +29,7 @@ Completed to satisfaction for submission only just in the final moments with a s
 
 # Example
 
-The following is an example of the RIP routing simulation for router #1 when using a network with four nodes:
+RIP routing simulation for router #1 when using a four-node network with router #3 inactived:
 
 ```
 Welcome to the RIP router program. Awaiting initialization...
