@@ -8,8 +8,8 @@ Completed to satisfaction for submission only just in the final moments with a s
 
 ### Authors:
 
-* Liam Laing
-* Adam Ross
+* [Liam Laing](https://profiles.canterbury.ac.nz/Liam-Laing)
+* [Adam Ross](https://github.com/r055a)
 
 # Instructions
 
