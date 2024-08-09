@@ -5,7 +5,7 @@
     message.py file
 
     Authors:
-        - Liam Laing
+        - Liam Laing (and/or tutor(s))
         - Adam Ross
     Date: 27 April 2018
 """
